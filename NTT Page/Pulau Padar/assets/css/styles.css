@@ -1,0 +1,105 @@
+body{
+  font-family:"Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+#trip{
+  text-align:center;
+  padding:40px;
+  background:url(../../assets/img/jimbaran.jpg) no-repeat;
+  background-size:cover;
+}
+
+@media (max-width:1199px) {
+  #trip{
+    padding:20px;
+  }
+}
+
+#trip jumbotron{
+}
+
+#trip .jumbotron{
+  border-radius:20px;
+  padding:40px;
+  background-color:rgba(255,255,255,0.75);
+  max-width:800px;
+  margin:0 auto;
+}
+
+@media (max-width:1199px) {
+  #trip .jumbotron{
+    padding:20px;
+  }
+}
+
+#search{
+  text-align:center;
+  vertical-align:middle;
+  position:relative;
+  margin-top:-20px;
+  height:30px;
+  width:250px;
+  background:rgb(44,62,80);
+  border:none;
+  border-radius:10px;
+}
+
+.dark-selection{
+  background-color:#d4dbe1;
+}
+
+.site-selection{
+  text-align:center;
+  padding-bottom:70px;
+}
+
+.site-selection h1{
+  font-weight:normal;
+  margin-bottom:30px;
+  padding-top:60px;
+}
+
+#welcome p{
+  max-width:800px;
+  font-size:20px;
+  margin:0 auto;
+}
+
+#provinsi .item i{
+  font-size:40px;
+  color:rgb(44,62,80);
+}
+
+#provinsi .item h2{
+  font-weight:normal;
+  margin-top:20px;
+  margin-bottom:20px;
+}
+
+#provinsi .item{
+  margin-top:30px;
+}
+
+#logo{
+  max-height:35px;
+  margin-right:10px;
+  margin-top:-3px;
+  display:inline-block;
+}
+
+#search{
+  width:5px;
+  height:10px;
+}
+
+button.btn.btn-default{
+  width:100px;
+  height:40px;
+}
+
+p.text-justify{
+}
+
+iframe{
+}
+

@@ -1,0 +1,79 @@
+#navbar{
+  background-color:#343a40;
+  height:60px;
+  width: 1500px;
+  padding-top:5px;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+}
+#logo{
+  max-width: 100px;
+  height:auto;
+  margin-bottom: -9px;
+  margin-left: -9px;
+  margin-right: -9px;
+  margin-top: -15px;
+  vertical-align: middle;
+  border-style: none;
+}
+
+#bgnavbar{
+  background-color:rgb(44,62,80);
+}
+
+#home{
+  padding-top: 14px;
+  padding-left: 91px;
+  color:#ffffff;
+  font-size: 16px;
+}
+
+#bglogo{
+  width:10px;
+}
+
+#prov{
+  color:#ffffff80;
+  font-size: 16px;
+  margin-left: -14px;
+  margin-top: -1px;
+}
+
+#about{
+  color:#ffffff80;
+  font-size: 16px;
+  margin-left: -14px;
+  margin-top: -1px;
+}
+
+#contact{
+  color:#ffffff80;
+  font-size: 16px;
+  margin-left: -14px;
+  margin-top: -1px;
+}
+
+#search{
+  margin-left: 634px;
+  margin-top: 5px;
+  width: 200px;
+  height: 38px;
+}
+
+#btnsearch{
+  margin-left: 5px;
+  margin-top: 4px;
+  color: #17a2b8;
+  background-color: transparent;
+  background-image: none;
+  border-color: #17a2b8;
+  height: 38px;
+  width: 73px;
+  font-family: inherit;
+}
+
+#dropdown{
+  color:#ffffff80;
+  font-size: 16px;
+  margin-left: -14px;
+  margin-top: -1px;
+}
